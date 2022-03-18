@@ -1,0 +1,14 @@
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.exe
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.deps.json
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.runtimeconfig.json
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.runtimeconfig.dev.json
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.dll
+D:\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.pdb
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.csproj.AssemblyReference.cache
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.AssemblyInfoInputs.cache
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.AssemblyInfo.cs
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.csproj.CoreCompileInputs.cache
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.dll
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.pdb
+D:\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.genruntimeconfig.cache
