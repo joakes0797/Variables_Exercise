@@ -11,7 +11,7 @@ namespace Variables_Exercise
             char timeLetter = 'a';
             bool isAlive = true;
             double myScore = 99.99;
-            decimal myAge = 21;
+            decimal myAge = 21.6543m;
 
             Console.WriteLine($"Four {timeLine} {timeYears} years ago {timeLetter} {isAlive}Coder student scored {myScore} percent on {myAge} quizzes.");
         }
