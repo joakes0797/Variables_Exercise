@@ -9,11 +9,11 @@ namespace Variables_Exercise
             string timeLine = "score and";
             int timeYears = 7;
             char timeLetter = 'a';
-            bool isAlive = true;
-            double myScore = 99.99;
-            decimal myAge = 21.6543m;
+            bool isCool = true;
+            double myScore = 97.26;
+            decimal myQuiz = 21.654321m;
 
-            Console.WriteLine($"Four {timeLine} {timeYears} years ago {timeLetter} {isAlive}Coder student scored {myScore} percent on {myAge} quizzes.");
+            Console.WriteLine($"Four {timeLine} {timeYears} years ago {timeLetter} {isCool}Coder student scored {myScore} percent on {myQuiz} quizzes.");
         }
     }
 }
